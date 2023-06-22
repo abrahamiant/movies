@@ -14,7 +14,7 @@ movie = random.choice(movies)
 
 text = f'Seems like we are going to watch {movie} tonight'
 
-q = f'smotret {movie} gidonline'
+q = f'smotret {movie} gidonline.io'
 
 url = "https://www.google.com/search?q"
 
